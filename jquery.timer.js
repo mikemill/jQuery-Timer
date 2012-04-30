@@ -4,6 +4,7 @@
  * @author Michael Miller mikemill@gmail.com
  * @license BSD http://www.opensource.org/licenses/bsd-license.php
  * @copyright 2012 Michael Miller
+ * @link https://github.com/mikemill/jQuery-Timer Main Repoistory
  * 
  */
 
