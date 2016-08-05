@@ -5,7 +5,7 @@ A simple plugin that is designed to fire off an event during pauses in the user'
 -------------------------------------------------------------
 **Example usage:**
 
-```
+```js
 $('#somerinput').timer({
 	callback: function(timer)
 	{
